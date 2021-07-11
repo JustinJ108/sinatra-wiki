@@ -1,0 +1,37 @@
+
+wiki.rb
+welcome.erb
+
+get "/new" do
+    erb :new
+end
+
+
+
+
+
+
+So wondering how when form gets submitted it ends up being written to a file. 
+It must get routed through the wiki.rb page
+
+
+
+In route for post requests - under the post create method
+he just sends some text to the page.
+
+
+- next I need to list all my pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
